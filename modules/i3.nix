@@ -26,6 +26,7 @@
 				dmenu
 				polybar
 			];
+			#configFile = relative path to config
 		};
 	};
 }
